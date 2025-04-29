@@ -1,6 +1,7 @@
-# Example-Design-Patterns
-# Demo: JavaScript Design Patterns
-# Student: Farley Rodrigo Eduardo Viveros Blanco
+# Demo Example-Design-Patterns
+
+## Student: Farley Rodrigo Eduardo Viveros Blanco
+
 ## Execute
 In new terminal, execute the command: node src/main.js
 
