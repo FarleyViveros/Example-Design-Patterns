@@ -39,7 +39,7 @@ const productDTO = new ProductDTO(product); // { name, price, tax }
 **Example:** **Example:**
 Logger.log('Message'); // Use the same instance throughout the app.
 
-Key benefits:** **Flexibility:** ** Adding new  
+Key benefits: 
 **Flexibility:** Add new types of products/status without breaking existing code  
 **Scalability:** Unlimited notifications with the Observer  
 **Security:** DTO acts as a “translator” between layers  
